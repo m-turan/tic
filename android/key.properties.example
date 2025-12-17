@@ -1,0 +1,17 @@
+# Bu dosya bir örnektir. Gerçek key.properties dosyasını oluştururken
+# Bu dosyayı kopyalayıp key.properties olarak kaydedin ve değerleri doldurun.
+#
+# ÖNEMLİ: key.properties dosyasını .gitignore'a ekledik, 
+# bu yüzden Git'e commit edilmeyecek (güvenlik için).
+
+storePassword=your_keystore_password_here
+keyPassword=your_key_password_here
+keyAlias=upload
+storeFile=path/to/your/upload-keystore.jks
+
+# Örnek Windows path:
+# storeFile=C:\\Users\\YourName\\upload-keystore.jks
+
+# Örnek Mac/Linux path:
+# storeFile=/Users/YourName/upload-keystore.jks
+

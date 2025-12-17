@@ -1,0 +1,23 @@
+Bu klasöre takım fotoğraflarını ekleyin:
+- liverpool.png
+- chelsea.png
+- man_united.png
+- man_city.png
+- tottenham.png
+- arsenal.png
+- real_madrid.png
+- barcelona.png
+- atletico_madrid.png
+- inter.png
+- juventus.png
+- milan.png
+- ajax.png
+- galatasaray.png
+- besiktas.png
+- fenerbahce.png
+- benfica.png
+- bayern_munih.png
+- borussia_dortmund.png
+- psg.png
+- marsilya.png
+

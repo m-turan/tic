@@ -1,0 +1,39 @@
+name: futbol_tic_tac_toe
+description: Futbol temalı Tic Tac Toe oyunu
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  # Database
+  sqflite: ^2.3.0
+  sqflite_common_ffi: ^2.3.0
+  path: ^1.8.3
+  
+  # HTTP & Firebase
+  http: ^1.1.0
+  firebase_core: ^3.6.0
+  firebase_database: ^11.1.6
+  
+  # Utilities
+  cupertino_icons: ^1.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  
+  assets:
+    - assets/oyuncu.json
+    - assets/country_images/
+    - assets/team_images/
+    - assets/player_images/
+
